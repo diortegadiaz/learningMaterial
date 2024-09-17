@@ -4,6 +4,21 @@ Version control is an essential skill for developers to master, and Git is by fa
 
 Plus, you'll learn how to work with the popular GitHub website to explore existing projects, clone them to your local hard drive, and use them as templates for your new projects.
 
-My name is Diego
+This project will be useful to:
+- Showcase my skills to my SME [^1]
+- Get a thorough practical understanding of GitHub
+- Get prepared for my placement at National Bank.
 
-I will be the best always
+> [!IMPORTANT]
+> This material was elaborated by me and does not represent FDM Group in any way.
+
+The upskilling calendar for the upcoming weeks is as following:
+1. Git and GitHub
+2. Jenkins
+3. Ansil
+4. Terraform
+5. Kubernetes
+
+For further information, please visit [FDM Group](https://www.fdmgroup.com). 
+
+[^1]: Subject Matter Expert
